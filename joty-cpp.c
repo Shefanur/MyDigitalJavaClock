@@ -7,3 +7,5 @@
         (age>=18)? (printf("eligible for voting")) : (printf("not eligible for voting"));
         return 0;
     }
+
+// Test
